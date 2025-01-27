@@ -1,6 +1,6 @@
 {
-  "name": "wa-sticker-maker",
-  "version": "1.0",
+  "name": "riz-sticker-maker",
+  "version": "1.0.0",
   "description": "Sticker Creator for WhatsApp",
   "main": "dist",
   "types": "dist",
